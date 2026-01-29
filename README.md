@@ -29,6 +29,25 @@ You can use this repository in your IPTV app or tools by:
 
 This repository is intended for **testing and development purposes only**, not for production IPTV services.
 
+# IPTV Test Channel List
+
+## 🎥 Main Playlist 
+[![Playlist](https://img.shields.io/badge/Live-Playlist-blue?style=flat&logo=play-circle)](https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/tvChannels1playlist.m3u)
+
+**[tvChannels1playlist.m3u](https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/tvChannels1playlist.m3u)**
+
+Copy-paste the link above directly into any IPTV player (VLC, Kodi, GSE Smart IPTV, TiviMate, etc.).
+
+## Usage Examples
+
+**Direct link for apps:**
+https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/tvChannels1playlist.m3u
+
+**In Kodi/TiviMate/VLC:**
+1. Open your IPTV app
+2. Add M3U Playlist → paste the RAW link
+3. Load & Play
+
 ## Updates
 
 The channel list may be updated from time to time (new channels added, broken links removed, metadata adjusted). There is no fixed update schedule, so treat this as a best-effort test source rather than a guaranteed stable feed.
