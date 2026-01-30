@@ -1,1 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐OpenTv Romania⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐OpenTv Romania⭐⭐⭐
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/75879
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐MIREASA⭐⭐⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/2/27/Mireasa_Logo.png" group-title="Romania ",⭐⭐⭐MIREASA⭐⭐⭐
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/51856
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐Mireasa Plus⭐⭐⭐" tvg-logo="https://assets.antenaplay.ro/2023/04/13/Xupo2qlnOHckDXhaOOCU.png" group-title="Romania ",⭐⭐⭐Mireasa Plus⭐⭐⭐
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/51857
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ OpenTV Colinde ⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/71330
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/74436
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 SD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/70429
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 HD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/9051
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 FHD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/8970
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 2K
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/8971
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 4K
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/13180
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HDR (Net Bun)" tvg-logo="" group-title="Romania ",Antena 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/70447
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV SD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/70428
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV HD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/9048
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV FHD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/8968
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV 2K
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/9394
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro Tv 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro Tv 4K
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/13181
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HDR (Net Bun)" tvg-logo="https://i.ibb.co/t4mkrkW/Pro-TV-HD-logo-2017.png" group-title="Romania ",Pro TV HDR (Net Bun)
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/70448
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV FHD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/8969
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D SD
+http://update.miicrosoft.es:80/Adrian_Budeanu/123456/70427
 
