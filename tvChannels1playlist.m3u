@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PROTV.ro@SD" tvg-name="Pro TV" group-title="Stiri",Pro TV
+https://stream.rds.live/c915ccf7/index.m3u8?verify=1791282366-JNfxeZxTC4ixJDQm4_PvUpyLS48Z7nSNm--NkPsM7Pc
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" group-title="TVR",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" group-title="TVR",TVR 2
