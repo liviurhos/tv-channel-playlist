@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News HD
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://images.seeklogo.com/logo-png/51/2/bbc-news-logo-png_seeklogo-519158.png" group-title="News",BBC News HD
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-
-#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png" group-title="General",BBC One Wales (720p)
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png" group-title="Legislative",BBC Parliament (720p)
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPwbObFZazxdxW_QkMPuujd4B62bovTFuMCGK-DjrVw&s=10" group-title="Legislative",BBC Parliament (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png" group-title="General",BBC One Wales (720p)
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RLkNFuc39IinPI-ExyvgrXM5Z0urToo-vri2QxyeTw&s=10" group-title="General",BBC One Wales (720p)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_JQ3Y1m8vmoPjGgtkPRnxNt1OagCm1i6wCV3NQPm_w&s" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="PROTV.ro@HD" tvg-name="PRO TV HD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/bd/Pro_TV_%282017-present%29.jpg/revision/latest?cb=20230501175744"
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-name="Antena 1" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Antena si Kanal D",Antena 1
+#EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-name="Antena 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-J5CE2olzi1GeR451KZGsTwqoPlGEP1p-sligz89lbg&s=10" group-title="Antena si Kanal D",Antena 1
 https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 #EXTINF:-1 tvg-id="B1.ro@SD" tvg-name="B1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" group-title="Stiri",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-name="Digi 24" tvg-logo="https://www.digi24.ro/static/theme-repo/apple-touch-icon.png" group-title="Stiri",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-name="Euronews Romania" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Stiri",Euronews Romania
+#EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-name="Euronews Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-1xKH1lgnS6VoC3cGD-oTgmm9V4f1-ZW0i617u83Xxg&s=10" group-title="Stiri",Euronews Romania
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro@SD" tvg-name="National 24 Plus" tvg-logo="https://i.imgur.com/VxBdga3.png" group-title="Stiri",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
