@@ -136,8 +136,7 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="TarafTV.ro@SD" tvg-name="Taraf TV" tvg-logo="https://i.imgur.com/0iuwjbK.png" group-title="Muzica",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Muzica",Tele7music
-https://live.tele7music.ro/hls/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="TraLaLaTV.ro@SD" tvg-name="TraLaLa TV" tvg-logo="https://i.imgur.com/xJBMnjy.png" group-title="Muzica",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Regional",A7TV
