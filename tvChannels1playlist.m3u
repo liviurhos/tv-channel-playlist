@@ -31,6 +31,14 @@ https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Extra",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-name="Pro Arena HD" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/proarena.ro.png" group-title="Extra",Pro Arena HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/procinema.ro.jpg" group-title="Extra",Pro Cinema
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-name="Acasa HD" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/acasa.ro.png" group-title="Extra",Acasa HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/acasagold.ro.jpg" group-title="Extra",Acasa Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/tvr1.ro.png" group-title="TVR",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="https://raw.githubusercontent.com/liviurhos/tv-channel-playlist/main/logos/tvr2.ro.jpg" group-title="TVR",TVR 2
