@@ -78,6 +78,8 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Stiri",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="Romaniatv.ro@SD" tvg-name="Romania TV" tvg-logo="https://www.romaniatv.net/wp-content/uploads/2020/11/fb-logo-rtv.png" group-title="Stiri",Romania TV
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaInternational.ro@SD" tvg-name="Antena International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" group-title="Antena si Kanal D",Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
@@ -99,9 +101,9 @@ https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-name="Insula non stop" tvg-logo="https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png" group-title="Antena si Kanal D",Insula non stop
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Antena si Kanal D",Kanal D
+#EXTINF:-1 tvg-id="KanalD.ro@SD" tvg-name="Kanal D" tvg-logo="https://cdn.knd.ro/media/521/2862/static/favicons/apple-touch-icon-180x180.png" group-title="Antena si Kanal D",Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Antena si Kanal D",Kanal D2
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2" tvg-logo="https://cdn.knd.ro/media/521/2862/static/favicons/apple-touch-icon-180x180.png" group-title="Antena si Kanal D",Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-name="MediCOOL TV" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Antena si Kanal D",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
