@@ -1,4 +1,5 @@
-["https://watchhub.strem.io/manifest.json", 
+["https://v3-cinemeta.strem.io/manifest.json",
+  "https://watchhub.strem.io/manifest.json", 
   "https://mediafusion.elfhosted.com/manifest.json",
   "https://addon-marvel.gonp.deno.net/manifest.json",
   "https://addon-dc-cq85.onrender.com/manifest.json",
